@@ -1,9 +1,11 @@
 
 o
-java:S1192"MDefine a constant instead of duplicating this literal "Hello world!" 5 times.(‚ÞÏ¥ýÿÿÿÿ8Ä·—Õñ1
+java:S1192"MDefine a constant instead of duplicating this literal "Hello world!" 7 times.(‚ÞÏ¥ýÿÿÿÿ8Ä·—Õñ1
 E	java:S106"+Replace this use of System.out by a logger.(‚ÞÏ¥ýÿÿÿÿ
 L	java:S106"+Replace this use of System.out by a logger.(‚ÞÏ¥ýÿÿÿÿ8Ï·—Õñ1
 L	java:S106"+Replace this use of System.out by a logger.(‚ÞÏ¥ýÿÿÿÿ8¢³¿Õñ1
 L	java:S106	"+Replace this use of System.out by a logger.(‚ÞÏ¥ýÿÿÿÿ8¢³¿Õñ1
 L	java:S106
 "+Replace this use of System.out by a logger.(‚ÞÏ¥ýÿÿÿÿ8îÔÀÕñ1
+L	java:S106"+Replace this use of System.out by a logger.(‚ÞÏ¥ýÿÿÿÿ8‡åÆÕñ1
+L	java:S106"+Replace this use of System.out by a logger.(‚ÞÏ¥ýÿÿÿÿ8‡åÆÕñ1
